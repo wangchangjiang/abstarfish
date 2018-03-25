@@ -14,6 +14,6 @@ class Tools{
 
     }
     public static function Hello(){
-        echo 'Hello world! From Abstarfish!';
+        echo 'Hello world! From Abstarfish!版本是多少？';
     }
 }
