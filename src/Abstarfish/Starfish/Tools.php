@@ -14,6 +14,6 @@ class Tools{
 
     }
     public static function Hello(){
-        echo 'Hello world';
+        echo 'Hello world! From Abstarfish!';
     }
 }
